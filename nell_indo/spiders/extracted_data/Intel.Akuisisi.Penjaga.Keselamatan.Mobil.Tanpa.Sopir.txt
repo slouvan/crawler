@@ -1,0 +1,47 @@
+
+
+KOMPAS.com - Sebagai bagian dari upayanya mendalami ranah Internet of Things (IoT), Intel mengumumkan telah mengakuisisi Yogitech, sebuah perusahaan perancang semikonduktor asal Italia.
+
+
+
+Yogitech dikenal memiliki spesialisasi berupa menambahkan keamanan “functional safety” di dalam chip yang dipakai di dalam robot, mobil tanpa sopir, dan aneka perangkat otomatis lain.
+
+
+
+Vice President Platform Engineering and Development grup IoT Intel, Ken Caviasca, menerangkan bahwa pihaknya bakal menerapkan teknologi Yogitech di bidang-bidang, seperti pemgembangan chip untuk sistem asistensi pengemudi, robotika, dan mesin otomatis.
+
+
+
+Functional safety adalah bagian dari sistem keamanan secara keseluruhan dari sebuah perangkat yang memastikan perangkat yang bersangkutan bisa melakukan tugasnya, dengan mengantisipasi kesalahan operator, kegagalan hardware, atau faktor perubahan lingkungan.
+
+
+
+Tujuan menerapakan funcitional safety adalah menghindari cidera fisik pada pengguna, baik secara langsung ataupun tak langsung. 
+
+
+
+Di ranah mobil tanpa sopir, misalnya, teknologi Yogitech bisa digunakan untuk mengurangi error terkait soal pengereman dan identifikasi obyek. Kesalahan atau kegagalan sistem pada mobil tanpa sopir bisa berakibat fatal.
+
+
+
+“Industri sekarang beralih dari otomatisasi data untuk memberikan keputusan yang lebih baik, ke aksi otomatis yang didasarkan pada data real time,” ujar Caviasca seperti dirangkum KompasTekno dari Fortune, Rabu (6/4/2016). 
+
+
+
+“Anda bisa melihat evolusi ini di purwarupa kendaraan otomatis yang hampir semuanya menggunakan chip Intel. Functional safety mutlak diperlukan untuk kendaraan-kendaraan ini, juga perangkat IoT lainnya,” lanjut Caviasca. 
+
+
+
+Besarnya nilai akuisisi Yogitech tidak disebutkan. Sebelumnya, perusahaan kecil ini pernah bekerja sama dengan para pabrikan chip lain, termasuk Texas Instruments, ARM, Toshiba, Fujitsu, dan ST Microelectronics. 
+
+
+
+Secara terpisah, unit Wind River Intel yang berfokus ke aspek software dari IoT turut melakukan pembelian terkait fungsi mobil otomats. 
+
+
+
+Akusisi diakukan atas Arynga, perusahaan pembaut software yang memungkinkan mobil menerima update secara over-the-air (OTA).
+
+
+
+Update OTA diperlukan untuk menyalurkan pembaruan secara segera, seperti dalam kasus ditemukannya celah keamanan.

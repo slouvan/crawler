@@ -1,0 +1,165 @@
+KOMPAS.com - Siapa sangka, aplikasi pesan instan WhatsApp ternyata memiliki sejumlah fitur yang tersembunyi. Kendati disebut tersembunyi, sebenarnya fitur ini bisa diakses siapa saja jika mengetahui caranya.
+
+
+
+Pengguna bisa memakainya untuk memudahkan berbagai hal, seperti menjaga privasi, mengurangi konsumsi data, hingga menyimpan percakapan ke dalam bentuk teks.
+
+
+
+Update: Fitur terbaru WhatsApp, Video Call. Selengkapnya baca, Begini Cara Pakai Video Call di WhatsApp 
+
+
+
+Berikut ini sepuluh dari beberapa fitur tersembunyi di WhatsApp, yang dirangkum KompasTekno dari berbagai sumber.
+
+
+
+1. Menyembunyikan “Last Seen”
+
+
+
+WhatsApp mengizinkan pengguna saling melihat waktu online terakhir masing-masing. Namun bila hal ini dirasa mengganggu privasi, Anda bisa menyembunyikan tanda “last seen” tersebut.
+
+
+
+Caranya, pilih menu Setting, kemudian pilih tab Account dan Privacy. Anda akan menemukan bilah bertuliskan “Last Seen”. Pilihlah tab tersebut, maka akan muncul pilihan lain secara pop-up.
+
+
+
+Anda tinggal memilih Everybody agar semua orang bisa melihat “Last Seen” tersebut, pilih My Contact supaya hanya orang dalam buku kontak saja yang bisa melihat, atau pilih Nobody agar tidak ada satu pun yang bisa melihat informasi tersebut.
+
+
+
+2. Backup percakapan
+
+
+
+Anda bisa membuat cadangan data percakapan sehingga saat berganti ponsel, semua percakapan lawas bisa dipulihkan kembali. Caranya pun mudah.
+
+
+
+Pada menu pengaturan atau Setting, carilah tab bertuliskan Chat dan Chat Backup. Di dalamnya berisi pengaturan untuk menyimpan cadangan data percapakan ke dalam Google Drive.
+
+
+
+Cukup dengan memasukkan akun Gmail Anda, serta mengatur agar aplikasi otomatis melakukan backup dalam durasi waktu tertentu. Selanjutnya semua akan berjalan otomatis
+
+
+
+3. Menyimpan percakapan dalam bentuk teks
+
+
+
+Pengguna WhatsApp bisa menyimpan berbagai percakapan mereka ke dalam bentuk teks. Ini berguna bila Anda termasuk orang yang rapi dan senang menyimpan berbagai arsip percakapan.
+
+
+
+Caranya, bukalah tab obrolan yang ingin Anda simpan dalam bentuk teks. Sentuh tiga titik yang berada di kanan atas, lanjutkan ke bilah More dan sentuh pilihan Email Chat.
+
+
+
+Selanjutnya Anda bisa memilih apakah akan menyertakan berbagai media di dalam percakapan atau hanya teks saja. Setelah memilih akan muncul e-mail untuk mengirimkan percakapan tersebut.
+
+
+
+4. Blokir kontak
+
+
+
+Sering mendapatkan pesan spam dari orang tak dikenal? Blokir saja. WhatsApp memang memberikan fitur tersebut dan bisa diakses dengan mudah.
+
+
+
+Caranya, buka percakapan dengan orang yang dituju. Sentuh menu titik tiga di bagian kanan atas dan pilih tab More. Anda akan menemukan pilihan Block di antara menu yang muncul. Sentuhlah, dan pemblokiran pun selesai.
+
+
+
+
+
+5. Menghentikan download otomatis
+
+
+
+Biasanya berbagai foto dan media yang dikirimkan melalui WhatsApp akan otomatis terunduh. Hal ini mengakibatkan konsumsi daya yang cukup besar, selain juga menghabiskan paket data.
+
+
+
+Anda bisa mengubah pengaturan agar semua media yang diterima nomor WhatsApp Anda tidak otomatis terunduh.
+
+
+
+Caranya, masuk ke menu Setting, dan pilih Data Usage. Di dalamnya ada tab bertuliskan Media Auto Download yang berisi pengaturan untuk unduhan otomatis tersebut.
+
+
+
+Ada tiga tab, yaitu When using mobile data, When connected on WiFi, atau When roaming. Pada masing-masing tab bisa dipilih media apa saja yang akan diunduh otomatis atau tidak diunduh sama sekali.
+
+
+
+6. Tanda bintang
+
+
+
+Anda bisa memberikan tanda bintang pada setiap percakapan yang ada di WhatsApp. Tanda ini berguna untuk mencatat berbagai informasi penting, seperti alamat rumah atau nomor telepon.
+
+
+
+Caranya, pilih pesan yang ingin ditandai, sentuh dan tahan selama beberapa detik. Akan muncul tanda bintang pada header WhatsApp, tepat disamping ikon “delete”. Pilihlah tanda bintang tersebut.
+
+
+
+Bila ingin melihat berbagai pesan yang sudah ditandai bintang, Anda cukup sentuh menu titik tiga di sudut kanan atas. Selanjutnya pilih tab bertuliskan “Starred messages”.
+
+
+
+7. Sembunyikan tanda read
+
+Setiap pesan yang dikirimkan dan sudah dibaca akan ditandai dengan centang biru. Bila Anda tak ingin lawan bicara mengetahui status pesan sudah dibaca atau belum, Anda bisa mengubahnya.
+
+
+
+Masuk ke menu Settings, lalu Accounts dan Privacy. Di dalamnya, tepatnya di bagian bawah, Anda akan menemukan tab bertuliskan Read Receipts. Hapus tanda centang di bilah tersebut untuk menon-aktifkannya.
+
+8. Huruf tebal dan miring
+
+
+
+WhatsApp kini bisa menampilkan huruf dalam format tebal (bold), miring (italic), dan dicoret (strike through). Anda bisa melakukannya dengan cara memasukkan karakter khusus sebelum dan setelah kata yang ingin diformat.
+
+
+
+Agar menjadi tebal, gunakan tanda bintang (*) di antara *kata yang diinginkan*. Bila ingin membuatnya miring, gunakan tanda underscore  (_) di antara _kata yang diinginkan_, dan bila ingin membuat kalimat dicoret (strike through), gunakan tanda ~ di antara ~kata yang diinginkan~. (Baca: Cara Bikin Huruf di WhatsApp Jadi Tebal dan Miring)
+
+
+
+9. Colek teman di grup
+
+
+
+WhatsApp mempunyai fitur mention atau "mencolek" teman di grup percakapan. Menggunakan fitur yang satu ini, pengguna yang tergabung dalam grup dijamin bakal menjadi lebih awas saat di-mention. 
+
+
+
+Pasalnya, fitur tersebut akan tetap memaksa sistem mengeluarkan bunyi notifikasi saat pengguna di-mention, meski grup percakapan itu sudah dibuat dalam dalam mode senyap (mute).
+
+
+
+Sebelumnya, jika pengguna mute sebuah grup, sistem tidak akan mengeluarkan bunyi notifikasi apa pun. Sehingga pengguna seringkali tidak menyadari sedang diajak berbicara dalam sebuah grup WhatsApp. 
+
+
+
+Fitur mention bisa dipakai dengan membubuhkan atau menekan karakter "@" (tanpa tanda petik). Setelah mengetik simbol "@" di kolom percakapan, deretan nama kontak yang ada dalam grup akan dimunculkan.
+
+
+
+Pengguna bisa mengetik nama kontak yang diinginkan atau memilih salah satu dari daftar kontak yang dimunculkan oleh WhatsApp.
+
+
+
+10. Membalas pesan yang sudah tenggelam di grup
+
+Jika ingin mengutip salah satu pesan di grup dan membalasnya, Anda harus menekan lama pesan tersebut. Antarmuka WhatsApp akan memunculkan beberapa ikon untuk bertindak.
+
+Salah satunya, yang terletak paling kiri, ada ikon bergambar panah. Anda cukup menekannya sekali, lalu WhatsApp akan otomatis mengutip pesan yang ingin Anda komentari.
+
+Setelah menuliskan komentar, kirim pesan itu. Anggota grup akan paham bahwa Anda sedang membalas sebuah obrolan spesifik yang dilontarkan satu orang. (Baca: Cara Menjawab Pesan yang Tenggelam di Grup WhatsApp)

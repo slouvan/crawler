@@ -1,0 +1,19 @@
+KOMPAS.com - Cara Google merekrut karyawan seringkali unik. Yang teranyar, seseorang dipekerjakan karena menulis sebaris bahasa pemrograman di kolom mesin pencari.
+
+Tampaknya mekanisme "perekrutan yang unik" menginspirasi Uber. Baru-baru ini, layanan transportasi berbasis aplikasi tersebut mencari engineer baru melalui tantangan meretas alias "hacking challenge".
+
+Kesempatan itu hanya berlaku bagi beberapa pengguna Uber beruntung, sebagaimana dilaporkan TheVerge dan dihimpun KompasTekno, Rabu (30/3/2016).
+
+Hacking challenge muncul di dalam aplikasi Uber saat pengguna naik kendaraan yang dipesan via Uber. Pengguna beruntung bakal menemukan kalimat "Code on The Road".
+
+Jika menekan kalimat tersebut, pengguna akan diberi tiga tantangan pengkodean. Masing-masing harus diselesaikan dalam waktu semenit.
+
+Jika berhasil menyelesaikan tantangan, pengguna bakal diminta mengontak Uber langsung dari aplikasi. Setelahnya, penumpang akan menerima e-mail berisi tautan mengisi formulir pekerjaan.
+
+Beberapa pengguna beruntung kemudian membagi screenshot tawaran bekerja di Uber ke Twitter. Setelah ditelisik, orang-orang yang mendapat "Code on The Road" di aplikasinya adalah mereka yang kini sudah bekerja di perusahaan teknologi.
+
+Kecurigaan bahwa Uber memanfaatkan data pribadi pengguna pun muncul. Hal itu buru-buru dibantah layanan asal San Francisco.
+
+"Jika pengguna dijemput di kawasan industri teknologi, tantangan "Code in The Road" akan muncul," kata juru bicara Uber.
+
+"Kami ingin mencari kandidat engineer potensial dengan cara yang seru," pungkasnya.

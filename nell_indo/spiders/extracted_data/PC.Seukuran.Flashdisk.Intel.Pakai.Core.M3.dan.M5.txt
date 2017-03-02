@@ -1,0 +1,29 @@
+KOMPAS.com - Komputer seukuran ibu jari, Intel Computestick mendapatkan upgrade hardware. Intel kini membuat dua versi dengan otak prosesor baru berbasis prosesor Intel Core M3 dan M5 generasi ke-6 (Skylake) dan versi prosesor Intel Atom quad-core.
+
+
+
+Pengenalan versi upgrade Compute stick tersebut dilakukan Intel di ajang pameran Consumer Electronics Show (CES) 2016 di Las Vegas, AS pada Kamis (7/1/2016). Computestick sendiri telah dijual di Indonesia sejak setahun yang lalu.
+
+
+
+Selain prosesor, memori RAM di versi Skylake juga ditingkatkan menjadi 4 GB, kapasitas penyimpanan internalnya juga digandakan menjadi 64 GB. Compute stick versi pertama hanya mengusung memori RAM 2 GB dan penyimpanan 32 GB.
+
+
+
+Sementara versi entry-level Compute Stick mengusung prosesor baru Atom x5-z8400 yang didukung oleh RAM 2 GB dan penyimpanan 32 GB.
+
+
+
+Intel juga menambah jumlah port USB dari satu port di versi awal menjadi dua port di versi terbaru Compute stick. Hal ini menghilangkan masalah jika pengguna ingin menghubungkan keyboard dan mouse secara bersamaan.
+
+
+
+Dikutip KompasTekno dari Trusted Reviews, Sabtu (9/1/2016), Intel mengklaim Compute stick kelas mid-range dengan prosesor M3 bisa menampilkan video resolusi 4K 30 Hz.
+
+
+
+Kedua model juga dilengkapi dengan WiFi yang telah ditingkatkan, 802.11ac. Sebelumnya, versi Computestick pertama mengusung WiFi WiFi 802.11 b/g/n.
+
+
+
+Kedua versi Computestick baru akan mulai dijual pada Februari 2016.

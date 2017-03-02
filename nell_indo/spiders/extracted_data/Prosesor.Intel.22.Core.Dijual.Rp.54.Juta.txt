@@ -1,0 +1,27 @@
+
+
+KOMPAS.com - Prosesor dengan 8 inti CPU? Ah, itu sudah biasa. Intel baru saja memperkenalkan chip dengan core CPU berjumlah sangat banyak untuk ukuran sekarang, mencapai 22 buah. Xeon E5-2600 V4 namanya. 
+
+
+
+Seperti dirangkum KompasTekno dari PC World, Jumat (1/4/2016), ke-22 core Xeon E5-2600 V4 dibuat dengan arsitektur Broadwell serta berjalan dengan kecepatan 22 GHz.
+
+
+
+Masing-masing inti tersebut dibekali pula dengan Hyper-Threading sehingga jumlah thread yang tersedia secara simultan mencapai 44. Spesifikasi lain dari Xeon E5-2600 V4 mencakup cache sebanyak 55 megabyte dan TDP 145 watt.
+
+
+
+Ada pula dukungan RAM DDR4 2.400 MHz hingga 4 slot DIMM per socket prosesor. Kapasitas RAM yang bisa dipakai mencapai 384 GB dengan kepingan modul 32 GB. 
+
+
+
+Harganya? Intel membanderol Xeon E5-2600 V4 seharga 4.115 dollar AS atau setara Rp 54 juta. Dengan kata lain, tiap core CPU yang tertanam di dalamnya dihargai Rp 2,5 juta.
+
+
+
+Tentu, dengan spesifikasi dan harga setinggi itu, Xeon E5-2600 V4 bukan ditujukan bagi pengguna rumahan, melainkan untuk dipakai di lingkungan workstation atau server enterprise.
+
+
+
+Keluarga prosesor Xeon dari Intel juga akrab dengan pengguna prosumer. Lini komputer MacPro dari Apple, misalnya, sudah sejak lama menawarkan chip Xeon dengan jumlah core CPU yang banyak.

@@ -1,0 +1,42 @@
+Soal VoLTE, metode panggilan telepon yang disalurkan lewat jaringan 4G LTE Smartfren ini menjanjikan kualitas suara lebih jernih karena memiliki bandwidth lebih lebar dibandingkan voice call di jaringan 2G/ 3G.
+
+VoLTE juga bisa digunakan membuat panggilan video (video call) dan video conference dengan peserta maksimal sebanyak 6 orang. Penggunaan voice/ video call lewat VoLTE tidak mengurangi kuota data internet, melainkan dibebankan ke pulsa utama dengan tarif standar Rp 900 per menit seperti voice call biasa.
+
+Andromax R2 sudah mendukung fitur VoLTE secara native atau bawaan. Dengan demikian pengguna bisa langsung memakainya untuk menelepon atau panggilan video tanpa memasang aplikasi tambahan.
+
+
+
+Sekadar diketahui, saat ini cuma Smartfren saja yang merilis VoLTE untuk komersil. Pengguna baru bisa merasakan manfaat VoLTE (suara lebih jernih dan video call) jika memakainya untuk berkomunikasi antar sesama pengguna Smartfren.
+
+
+
+Itu pun dengan catatan pengguna Smartfren tersebut sudah memakai kartu SIM dan perangkat genggam yang mendukung, atau minimal memakai aplikasi khusus bernama Smart VoLte.
+
+Lollipop polos
+
+
+
+Andromax R2 memakai sistem operasi Android 5.0 Lollipop versi "polos" alias tanpa modifikasi apapun. Pengguna hanya akan mendapatkan OS stock Android dengan sejumlah aplikasi bawaan dari Smartfren.
+
+
+
+Satu hal yang membuat kurang nyaman adalah ada banyak sekali aplikasi bawaan (bloatware) di ponsel ini. Padahal tak semuanya berguna, bahkan cenderung hanya memakan tempat saja.
+
+
+
+Deretan aplikasi bawaan yang disematkan itu adalah My Smartfren, Uangku, Bank Sinarmas, Excite Point, Genflix, Innovate GO, SmartCloud, UrbanIndo, Sale Stock, Baidu Browser, Bukalapak, Clean Master, Smartfren Appstore, dan SmartBOX.
+
+
+
+Daftar itu masih ditambah dengan adanya aplikasi Smart Play, SmartCall, Smart Face Call, Smart Music, SmartShield, Smart World, Top Games!, dan A+ Smart English. Total ada 22 aplikasi bawaan.
+
+
+
+Dari semua itu, hanya MySmartfren dan widget-nya saja yang berguna. Sisanya bisa dipakai sesuai kebutuhan atau dihapus saja karena toh tak banyak berguna.
+
+
+
+Untungnya pengguna bisa menghapus aplikasi yang tak dibutuhkan itu satu per satu. Hanya Uangku dan Bank Sinarmas yang tidak bisa dihapus. Aplikasi akan hilang setelah dihapus, tapi saat pengguna melakukan restore factory settings maka semuanya akan kembali.
+
+
+

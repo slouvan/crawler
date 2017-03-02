@@ -1,0 +1,61 @@
+KOMPAS.com - Lama dinanti, Netflix akhirnya mulai beroperasi di Indonesia mulai hari Kamis (7/1/2016). Apabila berlangganan layanan ini, pengguna bisa menikmati streaming film dan serial televisi sepuasnya.
+
+
+
+Sebagai layanan streaming, sangat wajar apabila Netflix membutuhkan bandwidth internet yang cukup banyak. Pertanyaannya, seberapa besar kebutuhan paket internet untuk menikmati Netflix?
+
+
+
+Menurut Netflix dalam situs resminya, estimasi paket internet yang dipakai untuk menonton satu film di layanan Netflix memang cukup besar, yakni 300 MB per jamnya. Itu pun perkiraan untuk video dengan kualitas terendah, yakni di bawah Standar Definition.
+
+
+
+Sementara itu, apabila pelanggan memutuskan untuk menonton film berkualitas SD, Netflix memperkirakan, dibutuhkan paket internet sebanyak 700 MB hingga 1 GB per jamnya.
+
+
+
+Semakin tinggi kualitas gambar dari sebuah film, tentunya akan semakin banyak kuota internet yang dipakai. 
+
+
+
+Untuk mengonsumsi satu film berkualitas HD, pelanggan dikatakan butuh paket data sebesar 3 GB per jamnya. Kebanyakan sebuah film berdurasi dua jam, berarti akan menghabiskan jatah internet sekitar 6 GB.
+
+
+
+Sedangkan, untuk menonton film dengan kualitas gambar tertinggi, Ultra HD, pengguna harus menyiapkan internet sebanyak 7 GB per jamnya.
+
+
+
+Penggunaan bandwidth per jamnya memang terlihat cukup besar, apalagi untuk kualitas Ultra HD. Oleh karena itu, sangat disarankan bagi pengguna untuk menggunakan paket internet dengan skema unlimited, bukan dibatasi oleh kuota.
+
+
+
+Cara mengatur resolusi film di Netflix
+
+
+
+Untuk menjaga konsumsi paket data milik pelanggan, Netflix sebenarnya telah memberikan pilihan pengaturan kualitas film.
+
+
+
+Sebagai gambaran, jika pengguna mengatur film di resolusi HD, maka Netflix akan selalu menampilkan film dalam kualitas tersebut. Ia tidak akan berpindah-pindah ke resolusi lainnya. 
+
+
+
+Namun, sebagai konsekuensinya, pengguna harus menyiapkan paket internet sebanyak 3 GB per jamnya untuk menikmati film HD tersebut.
+
+
+
+Pengaturan resolusi itu ada di bagian "Your Account", kemudian pilih "Playback settings". 
+
+
+
+Di laman ini, pengguna akan dihadapkan dengan empat pilihan pengaturan, yakni Low, Medium, High, dan Auto.
+
+
+
+Resolusi Low akan "memaksa" Netflix selalu menampilkan film dalam kualitas di bawah SD. Sedangkan Medium akan mengatur film tetap di kualitas SD dan High di kualitas HD atau Ultra HD.
+
+
+
+Adapun pilihan Auto akan menyesuaikan secara otomatis kualitas yang paling sesuai dengan kecepatan internet pengguna saat itu.

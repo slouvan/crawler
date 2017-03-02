@@ -1,0 +1,35 @@
+KOMPAS.com - Seorang perancang aplikasi (programer) menuliskan di blog-nya bahwa data pengguna aplikasi Go-Jek rawan dicuri. Pasalnya, komponen penyusun aplikasi GoJek memiliki celah keamanan (bug).
+
+
+
+Lewat celah pada API endpoint tersebut, informasi-informasi sensitif, seperti nomor ponsel pengguna, tujuan, hingga jenis makanan yang dipesan lewat Go-Food berikut harganya pun bisa dicuri oleh peretas lewat perintah tertentu.
+
+
+
+Programer itu mengaku sudah mengetahui bug aplikasi GoJek di Android dan iOS sejak Agustus 2015 dan telah memberitahu pihak GoJek. Namun karena perbaikan dari GoJek dirasa lambat, maka ia pun mempublikasikan tulisannya itu.
+
+
+
+Baca: Diduga Diretas, Go-Jek Minta Pelanggan Ganti Password 
+
+
+
+Menurut pengakuannya, pihak GoJek Indonesia meminta waktu agar dirinya tidak mempublikasi bug dalam aplikasi GoJek hingga 10 Januari 2016.
+
+
+
+"Karena saya sudah mengecek bug gojek dua kali (Agustus dan Desember 2015), saya tidak mengecek lagi apakah bug-bug ini saat ini masih ada atau tidak," demikian tulis blogger bernama Yohanes tersebut dalam blog pribadinya.
+
+
+
+"Ternyata ketika saya coba lagi sebelum posting artikel ini (2/1/2016), sebagian besar bug yang ada ternyata belum diperbaiki," imbuh Yohanes.
+
+
+
+Dari apa yang ditulisnya, informasi seperti data pribadi driver GoJek, mengubah pulsa driver GoJek, melihat order history pelanggan, nomor ponsel, e-mail, dan informasi sensitif lainnya dengan menggunakan perintah tertentu.
+
+
+
+
+
+Yohanes pun menyarankan agar GoJek memperbaiki berbagai bug tersebut. Ia juga mengingatkan agar pengguna aplikasi selalu berhati-hati dalam membagi informasinya.Dengan dipublikasikannya tulisan tersebut melalui blog-nya, ia berharap GoJek segera melakukan perbaikan."Karena sepertinya jika tidak di-publish, perbaikan akan lambat dilakukan, dan fitur baru lebih diutamakan," pungkasnya.Hingga berita ini dinaikkan, pihak GoJek belum mengeluarkan pernyataan resminya.

@@ -1,0 +1,39 @@
+
+
+
+
+KOMPAS.com — Uber pada Selasa kemarin meluncurkan program "perburuan bug" berhadiah uang senilai ratusan juta rupiah.
+
+Penyedia layanan transportasi berbasis online itu mengajak para peretas atau hacker mencari kelemahan atau lubang keamanan di aplikasi dan situs web miliknya. Siapa saja yang berhasil membobol aplikasi dan sistem milik Uber, mereka akan diberi hadiah, asalkan melaporkannya.
+
+
+
+Sebagaimana dirangkum KompasTekno dari Wired, Rabu (23/3/2016), hacker yang berhasil mengendus bug dan melaporkannya ke Uber bakal mendapat hadiah uang yang besarannya tergantung tingkat celah keamanan yang ditemukan.
+
+
+
+Bug yang bisa dieksploitasi untuk melakukan deface pada laman Uber atau membocorkan alamat e-mail pengguna, misalnya, bakal membuahkan 5.000 dollar AS atau sekitar Rp 66 juta.
+
+
+
+Celah keamanan yang lebih parah, seperti yang bisa disalahgunakan untuk mengambil alih akun pengguna Uber atau menanam program berbahaya di server, bakal diganjar hadiahlebih besar, mencapai angka maksimal 10.000 dollar AS atau lebih dari Rp 130 juta.
+
+
+
+Dalam sebuah posting di situsnya, Uber menjabarkan "peta harta karun" tempat para hacker bisa menemukan daftar buruan. Isinya adalah deskripsi layanan-layanan Uber berikut mekanisme dan platform kerja serta bentuk kelemahan yang mungkin terdapat di dalamnya.
+
+
+
+"Undangan" Uber untuk para hacker ini tampak seperti tindakan yang bisa berbalik mendatangkan masalah. Namun, perusahaan itu mengatakan, informasi-informasi yang dicantumkan lewat "peta harta karun" memang sudah dipublikasikan sebelumnya sehingga tak masalah apabila ditampilkan lagi.
+
+Lazim dilakukan
+
+
+
+Inisiatif mengajak pihak luar, baik periset keamanan maupun hacker putih yang berniat baik, sebenarnya sudah lazim diterapkan oleh raksasa-raksasa teknologi Silicon Valley. Salah satu tujuannya adalah menemukan celah sekuriti yang mungkin meleset dari perhatian tim internal perusahaan.
+
+
+
+Selain mereka, Facebook, Microsoft, dan Google diketahui turut menawarkan program serupa. Adapun Uber dalam hal ini bekerja sama dengan firma HackerOne yang berfokus dalam urusan perburuan bug.
+
+Sementara itu, di Indonesia, Uber bersama layanan ride sharing lain tengah disorot lantaran dipandang mengancam kelangsungan industri transportasi tradisional dan beroperasi secara ilegal oleh sebagian orang.

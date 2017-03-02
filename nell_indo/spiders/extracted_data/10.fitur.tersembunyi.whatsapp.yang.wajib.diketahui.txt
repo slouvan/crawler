@@ -1,0 +1,76 @@
+KOMPAS.com - Siapa sangka, aplikasi pesan instan WhatsApp ternyata memiliki sejumlah fitur yang tersembunyi. Kendati disebut tersembunyi, sebenarnya fitur ini bisa diakses siapa saja jika mengetahui caranya.
+
+
+
+Pengguna bisa memakainya untuk memudahkan berbagai hal, seperti menjaga privasi, mengurangi konsumsi data, hingga menyimpan percakapan ke dalam bentuk teks.
+
+
+
+Update: Fitur terbaru WhatsApp, Video Call. Selengkapnya baca, Begini Cara Pakai Video Call di WhatsApp 
+
+
+
+Berikut ini sepuluh dari beberapa fitur tersembunyi di WhatsApp, yang dirangkum KompasTekno dari berbagai sumber.
+
+
+
+1. Menyembunyikan “Last Seen”
+
+
+
+WhatsApp mengizinkan pengguna saling melihat waktu online terakhir masing-masing. Namun bila hal ini dirasa mengganggu privasi, Anda bisa menyembunyikan tanda “last seen” tersebut.
+
+
+
+Caranya, pilih menu Setting, kemudian pilih tab Account dan Privacy. Anda akan menemukan bilah bertuliskan “Last Seen”. Pilihlah tab tersebut, maka akan muncul pilihan lain secara pop-up.
+
+
+
+Anda tinggal memilih Everybody agar semua orang bisa melihat “Last Seen” tersebut, pilih My Contact supaya hanya orang dalam buku kontak saja yang bisa melihat, atau pilih Nobody agar tidak ada satu pun yang bisa melihat informasi tersebut.
+
+
+
+2. Backup percakapan
+
+
+
+Anda bisa membuat cadangan data percakapan sehingga saat berganti ponsel, semua percakapan lawas bisa dipulihkan kembali. Caranya pun mudah.
+
+
+
+Pada menu pengaturan atau Setting, carilah tab bertuliskan Chat dan Chat Backup. Di dalamnya berisi pengaturan untuk menyimpan cadangan data percapakan ke dalam Google Drive.
+
+
+
+Cukup dengan memasukkan akun Gmail Anda, serta mengatur agar aplikasi otomatis melakukan backup dalam durasi waktu tertentu. Selanjutnya semua akan berjalan otomatis
+
+
+
+3. Menyimpan percakapan dalam bentuk teks
+
+
+
+Pengguna WhatsApp bisa menyimpan berbagai percakapan mereka ke dalam bentuk teks. Ini berguna bila Anda termasuk orang yang rapi dan senang menyimpan berbagai arsip percakapan.
+
+
+
+Caranya, bukalah tab obrolan yang ingin Anda simpan dalam bentuk teks. Sentuh tiga titik yang berada di kanan atas, lanjutkan ke bilah More dan sentuh pilihan Email Chat.
+
+
+
+Selanjutnya Anda bisa memilih apakah akan menyertakan berbagai media di dalam percakapan atau hanya teks saja. Setelah memilih akan muncul e-mail untuk mengirimkan percakapan tersebut.
+
+
+
+4. Blokir kontak
+
+
+
+Sering mendapatkan pesan spam dari orang tak dikenal? Blokir saja. WhatsApp memang memberikan fitur tersebut dan bisa diakses dengan mudah.
+
+
+
+Caranya, buka percakapan dengan orang yang dituju. Sentuh menu titik tiga di bagian kanan atas dan pilih tab More. Anda akan menemukan pilihan Block di antara menu yang muncul. Sentuhlah, dan pemblokiran pun selesai.
+
+
+

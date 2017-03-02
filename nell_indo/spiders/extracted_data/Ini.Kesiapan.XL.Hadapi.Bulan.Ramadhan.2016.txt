@@ -1,0 +1,41 @@
+KOMPAS.com - XL bersiap menghadapi datangnya bulan Ramadhan dan musim mudik Lebaran. Beberapa di antaranya dengan menerapkan teknologi baru dan penambahan kapasitas jaringan.
+
+
+
+Pada Ramadhan dan musim mudik, pengguna layanan telekomunikasi di Indonesia kebanyakan berbondong-bondong bepergian dari satu kota ke kota lain. Penggunan layanan sepanjang masa itu pun biasanya melonjak tinggi.
+
+
+
+"Karena itu kami secara khusus menyiapkan jaringan dan hal terkait lainnya dalam menghadapi Ramadhan dan Lebaran yang diikuti oleh masa pulang kampung dan libur panjang di berbagai daerah," tutur Chief Service Management Officer XL Yessie D. Yosetya dalam keterangan resmi XL, Rabu (11/5/2016).
+
+
+
+Yessie memperkirakan akan terjadi kenaikan traffic atau pemakaian layanan data sekitar 30 hingga 40 persen. Sedangkan SMS dan layanan suara cenderung stabil.
+
+
+
+Kalaupun ada kenaikan SMS dan layanan suara, diperkirakan hanya sekitar 5 hingga 15 persen dibandingkan hari biasa. Kenaikan akan terjadi di Pulau Jawa.
+
+
+
+Persiapan yang dilakukan XL, antara lain menerapkan teknologi Network Function Virtualization (NFV).
+
+
+
+Teknologi tersebut membuat XL bisa mengatur penambahan dan pengurangan kapasitas jaringan dengan cepat. Misalnya ketika traffic di lokasi tujuan mudik mulai memadat, operator bisa menyediakan kapasitas tambahan dalam hitungan menit saja.
+
+
+
+Operator yang identik dengan warna biru itu juga meningkatkan kapasitas jaringan di daerah ramai, seperti terminal, bandara, jalur mudik, dan stasiun. Peningkatannya antara dua sampai tiga kali lipat kapasitas sehari-hari.
+
+
+
+XL memakai teknologi MSC pool dan SGSN in pool pada 3G di seluruh Indonesia. Teknologi yang dimaksud berfungsi sebagai manajemen traffic pengguna layanan komunikasi.
+
+
+
+Saat traffic di suatu daerah padat, maka akan disebarkan ke jaringan XL di sekelilingnya. Biasanya kepadatan hanya terjadi di satu titik, sedangkan titik lain yang melingkarinya cenderung sepi.
+
+ 
+
+Anak usaha Axiata Group ini melayani lebih dari 42 juta pelanggan telekomunikasi di Indonesia. Mereka memiliki total 69.000 base transceiver station (BTS 2G/3G/4G).

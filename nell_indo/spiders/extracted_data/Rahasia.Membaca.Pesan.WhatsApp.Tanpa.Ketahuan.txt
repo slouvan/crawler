@@ -1,0 +1,49 @@
+KOMPAS.com - Pengguna aplikasi pesan instan WhatsApp pasti sudah paham, tanda centang hitam di samping pesan berarti pesan tersebut telah terkirim, centang dua hitam sudah diterima, dan dua centang biru berarti pesan sudah dibaca.
+
+
+
+Namun ada kalanya si penerima tidak ingin pengirim tahu saat pesannya sudah dibaca, dengan alasan masing-masing tentunya.
+
+
+
+Bagi Anda yang termasuk dalam golongan demikian bisa mengikuti tips berikut ini, tentang bagaimana membaca pesan di WhatsApp tanpa harus membuat dua tanda centang hitam menjadi biru.
+
+
+
+WhatsApp memang menyediakan fitur untuk menonaktifkan tanda centang biru (read-receipt) dalam Menu, namun setting ini berlaku dua arah.
+
+
+
+Jika diaktifkan, maka pengguna pun tidak bisa melihat apakah pesannya sudah dibaca atau belum.
+
+
+
+Namun, ada solusi lain untuk memecahkan masalah ini. Rahasianya terletak pada fitur Airplane Mode yang ada di setiap perangkat smartphone.
+
+
+
+Jika Anda menerima pesan WhatsApp yang ingin dibaca tanpa membuat pengirimnya tahu, ubah mode smartphone ke dalam Airplane Mode sebelum membuka pesan.
+
+
+
+Dalam mode ini, semua aplikasi akan menjadi offline, namun semua pesan yang diterima sudah diterima dan tersimpan dalam cache smartphone untuk dibaca.
+
+
+
+Sebelumnya, pastikan dulu aplikasi WhatsApp sedang tidak dibuka saat mengaktifkan Airplane Mode ini.
+
+
+
+Dengan mematikan data, maka WhatsApp tidak bisa memberitahu server bahwa pesan yang dikirim telah dibuka dan dibaca.
+
+
+
+Pengguna pun bisa bebas membaca semua pesan dalam mode Airplane Mode ini tanpa khawatir pengirim pesan mengetahuinya. Namun begitu mode Airplane Mode dinon-aktifkan, server WhatsApp bisa mengidentifikasi apakah pesan yang dikirim sudah dibaca atau belum. 
+
+
+
+Perlu diingat, trik ini hanya berlaku untuk pesan pribadi saja. Read-receipt untuk semua pesan yang dikirim dalam percakapan kelompok (group chat) akan selalu aktif.
+
+
+
+Baca: 10 Fitur Tersembunyi WhatsApp yang Wajib Diketahui

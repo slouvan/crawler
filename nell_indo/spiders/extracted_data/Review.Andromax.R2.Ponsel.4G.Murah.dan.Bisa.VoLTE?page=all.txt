@@ -1,0 +1,143 @@
+JAKARTA, KOMPAS.com - Seiring dengan hadirnya teknologi 4G LTE, muncul juga metode panggilan telepon baru yang bernama Voice over LTE (VoLTE). Ini adalah mode voice/ video call yang dilakukan melalui akses internet cepat 4G LTE, tapi tidak semua gadget bisa menggunakannya.
+
+
+
+Rata-rata gadget 4G LTE yang mendukung VoLTE dibanderol dengan harga selangit. Sebut saja Samsung Galaxy Note 5 dan iPhone 6. Selain mendukung VoLTE, keduanya memang dicitrakan sebagai ponsel high end dengan spesifikasi tinggi.
+
+
+
+Tapi sejak awal 2016 lalu, pengguna Android punya pilihan yang lebih “merakyat”. Ya, Smartfren meluncuran Andromax R2 dengan dukungan VoLTE dan banderol harga Rp 1,7 juta.
+
+
+
+Jangan dulu meremehkan ponsel ini karena harganya tergolong murah. KompasTekno sempat menjajal ponsel Andromax R2 dan mendapatkan pengalaman yang menyenangkan, terutama soal desain dan kinerja kameranya.
+
+
+
+Bodinya terasa mewah dengan balutan logam. Sama sekali tak terlihat kesan bahwa Andromax R2 merupakan ponsel murah.
+
+
+
+Layarnya berukuran 5 inci dengan resolusi HD 1.280 x 720 piksel. Warna yang ditampilkan pun jernih dan cerah, lengkap dengan perlindungan dari Dragontail Glass.
+
+
+
+Andromax R2 dibekali chip Qualcomm Snapdragon 415 octa core 1,4 Ghz, GPU Adreno 405 dan RAM 2 GB. Prosesor papan tengah ini bisa memberikan kinerja cukup mulus, asalkan bukan dipakai menjalankan aplikasi atau game kelas berat.Pengalaman KompasTekno, saat memakainya selama lebih dari dua pekan, tak ada hambatan pada soal kinerja. Media sosial seperti Path, Twitter, Instagram Facebook bisa dibuka tanpa mengalami lag.Menjelajah situs memakai Chrome dan mengetik menggunakan Evernote atau Google Keep pun bisa dilakukan dengan lancar. Begitu pula saat bermain game.Mengacu pada hasil benchmark Antutu dan 3D Mark, Andromax R2 punya kelemahan dalam menampilkan game 3D. Selama pengujian pun rendering grafis 3D terlihat patah-patah, tidak berjalan dengan lancar.Sedangkan pengujian untuk bermain game tidak ditemukan kendala sama sekali. Dengan catatan game yang dimainkan tidak membutuhkan grafis tingkat tinggi.KompasTekno memakai Andromax R2 untuk memainkan game multiplayer online Vain Glory dan tidak menemukan kendala. Asalkan mendapat sinyal 4G yang kuat, maka game bisa dimainkan tanpa lag sama sekali.
+
+Yoga Hastyadi Widiartanto/KOMPAS.com Smartfren Andromax R2 saat digunakan untuk bermain game Clash Royale Yoga Hastyadi Widiartanto/KOMPAS.com Smartfren Andromax R2 saat digunakan untuk bermain game Clash Royale 
+
+Game ringan seperti Clash of Clans, Clash Royale atau sekadar Cut The Rope sudah pasti bisa dimainkan tanpa kendala apapun.
+
+
+
+Sayangnya, KompasTekno mulai merasakan gambar terhenti sejenak (stuttering) ketika memainkan game Frontline Commando 2. Game mendadak berhenti sekejap saat sedang berada di adegan perang, padahal tak terlihat banyak pergerakan di sana.
+
+
+
+Selain itu kursor untuk menggerakkan pandangan dalam game pun terasa bergerak dengan tidak mulus. Memang masih bisa bergerak dan membidik dengan akurat, tapi untuk melakukan hal itu dengan cepat terasa agak sulit.
+
+
+
+
+
+Jadi "modem", tahan lama
+
+
+
+Dengan baterai Lithium Polymer 2.320 mAh, ponsel ini bisa bertahan cukup lama. Selama pengujian, dengan pemakaian untuk menjelajah web, dual SIM stand by, memotret, membuka media sosial, dan sesekali tethering, Andromax R2 bisa hidup selama kurang lebih 8 jam.
+
+
+
+Bila hanya dipakai untuk tethering secara non-stop, ponsel ini bisa bertahan antara 10-11 jam. Tentu saja ini bergantung pada seberapa besar konsumsi data dan berapa banyak alat yang terhubung ke Andromax R2.
+
+Daya tahan tethering tersebut cukup memuaskan. Setidaknya, pengguna bisa mengalihfungsikan Andromax R2 menjadi modem tanpa harus terlalu khawatir soal baterai.Sekadar catatan, baterai akan lebih cepat habis jika pengguna memakainya untuk bermain game berat atau game online. Pengalaman KompasTekno menunjukkan bahwa ponsel ini hanya bisa bertahan antara 5-6 jam saja saat dipakai bermain Clash Royale atau Vain Glory.Bagian casing belakang ponsel pun terasa panas saat dipakai memainkan game tersebut. Memang tidak sampai taraf mengganggu, namun panas tersebut bisa dirasakan dengan jelas saat memegangnya.
+
+Berikut ini hasil benchmark yang diakukan memakai aplikasi AnTuTu dan PC Mark for Android.
+
+Soal VoLTE, metode panggilan telepon yang disalurkan lewat jaringan 4G LTE Smartfren ini menjanjikan kualitas suara lebih jernih karena memiliki bandwidth lebih lebar dibandingkan voice call di jaringan 2G/ 3G.
+
+VoLTE juga bisa digunakan membuat panggilan video (video call) dan video conference dengan peserta maksimal sebanyak 6 orang. Penggunaan voice/ video call lewat VoLTE tidak mengurangi kuota data internet, melainkan dibebankan ke pulsa utama dengan tarif standar Rp 900 per menit seperti voice call biasa.
+
+Andromax R2 sudah mendukung fitur VoLTE secara native atau bawaan. Dengan demikian pengguna bisa langsung memakainya untuk menelepon atau panggilan video tanpa memasang aplikasi tambahan.
+
+
+
+Sekadar diketahui, saat ini cuma Smartfren saja yang merilis VoLTE untuk komersil. Pengguna baru bisa merasakan manfaat VoLTE (suara lebih jernih dan video call) jika memakainya untuk berkomunikasi antar sesama pengguna Smartfren.
+
+
+
+Itu pun dengan catatan pengguna Smartfren tersebut sudah memakai kartu SIM dan perangkat genggam yang mendukung, atau minimal memakai aplikasi khusus bernama Smart VoLte.
+
+Lollipop polos
+
+
+
+Andromax R2 memakai sistem operasi Android 5.0 Lollipop versi "polos" alias tanpa modifikasi apapun. Pengguna hanya akan mendapatkan OS stock Android dengan sejumlah aplikasi bawaan dari Smartfren.
+
+
+
+Satu hal yang membuat kurang nyaman adalah ada banyak sekali aplikasi bawaan (bloatware) di ponsel ini. Padahal tak semuanya berguna, bahkan cenderung hanya memakan tempat saja.
+
+
+
+Deretan aplikasi bawaan yang disematkan itu adalah My Smartfren, Uangku, Bank Sinarmas, Excite Point, Genflix, Innovate GO, SmartCloud, UrbanIndo, Sale Stock, Baidu Browser, Bukalapak, Clean Master, Smartfren Appstore, dan SmartBOX.
+
+
+
+Daftar itu masih ditambah dengan adanya aplikasi Smart Play, SmartCall, Smart Face Call, Smart Music, SmartShield, Smart World, Top Games!, dan A+ Smart English. Total ada 22 aplikasi bawaan.
+
+
+
+Dari semua itu, hanya MySmartfren dan widget-nya saja yang berguna. Sisanya bisa dipakai sesuai kebutuhan atau dihapus saja karena toh tak banyak berguna.
+
+
+
+Untungnya pengguna bisa menghapus aplikasi yang tak dibutuhkan itu satu per satu. Hanya Uangku dan Bank Sinarmas yang tidak bisa dihapus. Aplikasi akan hilang setelah dihapus, tapi saat pengguna melakukan restore factory settings maka semuanya akan kembali.
+
+
+
+
+
+Kamera jernih
+
+
+
+Kamera Andromax R2 bisa menghasilkan gambar yang baik dan jernih, apalagi mengingat ponsel ini berada di harga Rp 1,7 juta. Rata-rata ponsel di rentang harga itu memang cenderung menghasilkan foto yang biasa saja.
+
+Kamera utamanya memiliki resolusi 13 megapiksel, dengan sensor jenis backside illuminated. Sedangkan kamera depan setajam 5 megapiksel dan dilengkapi lensa wide angle.Pada kasus Andromax R2, asalkan memotret dalam kondisi pencahayaan baik, maka kamera utama bisa menghasilkan foto jernih dengan saturasi dan kontras yang tidak berlebihan.Sedangkan dalam kondisi kekurangan cahaya atau low light, hasil jepretan cenderung tidak bagus, terganggu dengan noise, warna dan detilnya cenderung rusak. Tampaknya ini akibat sistem pemrosesan foto pada kamera yang otomatis menaikkan saturasi dan kecerahan.Sebenarnya ponsel ini dibekali dengan dual tone flash LED di bagian belakang dan sebuah flash LED biasa di bagian depan. Kalau pengguna hanya ingin objek foto bisa terlihat dengan jelas, maka kedua flash ini bakal cukup membantu.
+
+Berikut ini contoh hasil jepretan Andromax R2:
+
+Ponsel Smartfren Andromax R2 cocok dipakai untuk siapapun yang ingin mencicipi konektivitas 4G LTE. Harga Rp 1,7 juta mudah dijangkau dan pengguna bisa mendapatkan pilihan paket unlimited, walaupun pada paket unlimited terbaru nanti sudah diberlakukan fair usage policy (FUP).
+
+Kamera utama setajam 13 megapiksel juga cukup bisa diandalkan. Pengguna bisa mengajak ponsel ini berjalan-jalan ke luar kota, memotret dan membagikan hasil jepretannya ke media sosial dengan mudah.
+
+Coverage 4G LTE Smartfren sudah cukup luas dan mencakup 85 kota di seluruh Indonesia. Andromax R2 juga unggul dengan adaya fitur VoLTE. Biasanya fitur panggilan memanfaatkan internet 4G LTE ini cuma ada di ponsel mahal sekelas iPhone 6.
+
+Tapi sayang, VoLTE tak banyak berguna kalau belum diadopsi banyak orang. Sementara waktu ini, cuma Smartfren yang mengadopsinya. Dengan demikian pengguna cuma bisa menjajal VoLTE untuk menghubungi sesama pengguna Smartfren, yang memakai Andromax berspesifikasi VoLTE.
+
+Salah satu kekurangan Andromax R2 adalah hanya bisa memakai paket internet dari Smartfren. Sebenarnya wajar saja mengingat ini merupakan ponsel bundling. Pengguna cukup mempertimbangkannya dulu sebelum membeli.
+
+Selain itu, pengguna Andromax R2 mungkin akan agak terganggu dengan adanya 22 aplikasi bawaan yang tidak punya fungsi praktis di dalamnya. Solusinya adalah menghapus aplikasi tersebut satu per satu.
+
+Smartfren Andromax R2
+
+
+
+Kelebihan:
+
++ Desain mewah dengan materi logam
+
++ Kamera jernih
+
++ Kinerja cukup baik untuk bermain game
+
++ VoLTE
+
+Kekurangan:
+
+- Fitur VoLTE baru bisa dimanfaatkan untuk sesama pengguna Smartfren
+
+- Cepat panas saat menjalankan aplikasi berat
+
+- Banyak bloatware yang tidak berguna

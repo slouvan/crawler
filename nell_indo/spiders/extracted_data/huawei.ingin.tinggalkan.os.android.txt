@@ -1,0 +1,41 @@
+KOMPAS.com - Huawei kembali dikabarkan ingin meninggalkan sistem operasi Android untuk perangkat-perangkat ponselnya, dan membuat sistem operasi sendiri. Pabrikan China tersebut tak ingin terus-terusan bergantung dengan Android buatan Google.
+
+
+
+Menurut sumber dalam yang familiar dengan rencana itu, inisiasi Huawei didorong gelagat Google yang hendak meningkatkan kontrol ke vendor-vendor yang memanfaatkan sistem operasi Android. 
+
+
+
+Google disebut punya alasan khusus atas hal itu. Selama ini, Android dibangun dengan prinsip terbuka dan bebas sehingga ekosistemnya cepat meluas. Semua vendor diberi keleluasaan memodifikasi Android dengan selera dan tujuan masing-masing. Namun, di sisi lain, ada dampak negatif dari keterbukaan dan kebebasan itu. 
+
+
+
+Pasalnya, selain menciptakan keberagaman, kebebasan itu juga menciptakan fragmentasi atau standar ganda Android pada tiap berangkat. 
+
+
+
+Hal ini bisa memengaruhi pengalaman pengguna, terutama berisiko pada kerentanan dan isu keamanan. Untuk ini, Google disebut menuai banyak kritikan, sebagaimana dilaporkan SlashGear dan dihimpun KompasTekno, Jumat (24/6/2016). 
+
+
+
+Untuk memangkas fragmentasi itu, Google pun harus memangkas kebebasan yang dinilai terlalu bebas bagi para vendor. 
+
+
+
+Reaksi Huawei yang dikatakan ingin membuat sistem operasi sendiri merupakan salah satu konsekuensinya. Namun, jika benar, jalan itu belum tentu pula yang terbaik bagi Huawei.
+
+
+
+Pasalnya, jika Huawei lepas dari Android, Huawei juga harus lepas dari ratusan aplikasi Android yang selama ini lekat dengan penggunanya. Selain itu, Sang vendor juga harus pelan-pelan masuk ke hati pengguna yang terlanjur terbiasa dengan Android.
+
+
+
+Sebelum Huawei, Samsung sudah melangkah lebih dulu dengan membuat sistem operasi Tizen. Namun, seperti yang dilihat saat ini, ponsel Samsung masih tetap bergantung pada Android. 
+
+
+
+Jika memilih jalan tengah, Huawei bisa saja membuat ROM custom semacam Cyanogen. Sistem operasi asal Amerika Serikat tersebut memang hendak mengimbangi dominasi Android, namun tak benar-benar lepas dari sistem operasi terbesar itu. 
+
+
+
+Belum jelas jalan mana yang bakal ditempuh Huawei. Belum jelas pula apakah selentingan kabar ini sahih atau tidak. Huawei belum mengeluarkan pernyataan resmi.

@@ -1,0 +1,39 @@
+KOMPAS.com - Kehadiran Netflix mempertegas signifikansi internet cepat di Indonesia. Pasalnya, layanan penyewaan film dan serial televisi berbasis streaming tersebut mematok jaringan internet yang mumpuni sebagai syarat mutlak.
+
+Sebagai gambaran, kecepatan minimum yang dibutuhkan untuk mengakses Netflix adalah 5.0 Mbps. Namun, untuk kualitas gambar film maksimal (Ultra HD), kecepatan yang dibutuhkan 25 Mbps.
+
+Syarat itu bisa dibilang mudah terpenuhi, baik bagi penyedia internet rumah (Biznet, First Media, MNC PlayMedia, IndiHome), maupun penyedia internet mobile (Telkomsel, Indosat Ooreedo, Hutchison Tri, Smartfren).
+
+Pasalnya, penyedia internet rumah mematrikan teknologi fiber optic yang mengakomodir internet berkecepatan hingga ratusan Mbps. Begitu pula operator telekomunikasi yang sudah menyediakan layanan internet generasi keempat (4G LTE) dengan kecepatan memadai.
+
+Namun syarat selanjutnya terkait kuota. Penyedia internet rumah berbasis teknologi fiber optic mengakomodir paket internet tanpa batas (unlimited) dengan beragam kisaran harga.
+
+Tetapi Netflix bukan hanya soal akses di rumah menggunakan PC dan laptop. Layanan tersebut juga mewadahi kebutuhan menonton mobile di manapun dan kapanpun lewat smartphone dan tablet.
+
+Perlu diketahui, streaming satu film di Netflix rata-rata membutuhkan kuota internet 6 GB. Sementara pantauan KompasTekno, mayoritas operator telekomunikasi belum menyediakan paket internet berkuota besar dengan harga terjangkau.
+
+XL Axiata dan Indosat Ooreedo masing-masing punya paket bertajuk internet unlimited, namun dipatok batas wajar pemakaian atau FUP. 
+
+
+
+Paket unlimited XL atau disebut "worry-free" terbagi menjadi paket harian, tiga harian, mingguan, dan bulanan, pada jaringan 2G dan 3G.
+
+Untuk paket bulanan, dengan biaya berlangganan Rp 120.000, FUP-nya 3 GB dengan kecepatan hingga 3,6 Mbps. Setelah melewati FUP, internet tetap bisa dipakai namun dengan kecepatan yang jauh menurun.
+
+Artinya, dengan membayar Rp 120.000 pada paket "worry-free", pengguna XL tak bisa streaming satu film kualitas HD di Netflix hingga selesai. Resolusi gambar pun tak maksimal (Full HD) karena kecepatannya mentok di 3,6 Mbps.
+
+
+
+Untuk resolusi gambar yang lebih baik, XL menyediakan pilihan paket 4G berkuota besar. "Kami punya HotRod prioritas, itu kuotanya sampai 50 GB," kata GM Coorporate Communication XL Tri Wahyuningsih pada KompasTekno, Jumat (8/1/2015)
+
+
+
+Harga paket tersebut Rp 200.000 dengan masa berlaku dua minggu. Tapi tetap saja, layanan itu tak bersifat unlimited dan mekanismenya belum mewadahi kebutuhan menjajal Netflix secara maksimal.
+
+Indosat Ooredoo menawarkan hal serupa melalui paket "Super Internet Unlimited" pada jaringan 3G (42 Mbps) dan 4G (90 Mbps). Paketnya terbagi menjadi harian, mingguan, dan bulanan. Untuk paket bulanan, FUP-nya 2 GB dengan biaya berlangganan Rp 100.000. Setelah FUP tercapai, kecepatan internetnya mentok di kecepatan 16 Kbps. Tidak cukup mumpuni untuk pemakaian Netflix.
+
+Sementara itu, Telkomsel sudah menonaktifkan paket unlimited-nya. Sama halnya dengan Hutchison Tri yang juga tak memiliki paket unlimited.
+
+Smartfren adalah satu-satunya operator telekomunikasi yang menyediakan paket true unlimited tanpa FUP. Operator berbasis CDMA tersebut mematok Rp 300.000 untuk pemakaian kuota jaringan 4G sepuasnya dengan kecepatan rata-rata 49 Mbps.
+
+Hingga April 2016, Smartfren memberlakukan promo Rp 75.000 untuk paket true unlimited dengan syarat dan ketentuan berlaku, salah satunya cuma bisa di ponsel Andromax. Artinya, untuk saat ini, baru Smartfren yang bisa dikatakan siap mendukung kebutuhan masyarakat modern menjajal Netflix lewat perangkat mobile.
