@@ -1,6 +1,7 @@
 # Installation
+To install the scrapy framework :
 
-pip install scrapy
+	pip install scrapy
 
 # Running the crawler
 1. Go to the directory crawler/nell_indo
