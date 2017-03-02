@@ -4,10 +4,9 @@ To install the scrapy framework :
 	pip install scrapy
 
 # Running the crawler
-1. Go to the directory :
+Enter the project directory and run the crawler
 
-	crawler/nell_indo
+    cd nell_indo
+    scrapy crawl nell
 
-2. Execute the command: 
-
-	scrapy crawl nell 
+The raw data is stored in `nell_indo/spiders/raw_data` , the article text is stored in `nell_indo/spiders/extracted_data`
